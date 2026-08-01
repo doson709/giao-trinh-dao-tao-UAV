@@ -1,0 +1,24 @@
+# Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Microsoft Office temporary files
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+.venv/
+venv/
+ENV/
+env/
