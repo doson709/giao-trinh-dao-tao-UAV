@@ -22,3 +22,9 @@ __pycache__/
 venv/
 ENV/
 env/
+
+# Thư mục và tệp quản lý riêng/nội bộ
+dashboard-manager/
+kế hoạch triển khai dự án/
+Tổng hợp bằng cấp - chứng chỉ 2026.09.05/
+ghi âm cuộc họp với bên học viên.m4a
